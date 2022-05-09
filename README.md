@@ -14,10 +14,10 @@
   1. Composable Video Pipeline 
 
 ## A Composable Video Pipeline
-To demonstrate the benefits of the composable overlay, we reference a composable video pipeline from offical.
+To demonstrate the benefits of the composable overlay, we reference a composable video pipeline from offical
 https://github.com/Xilinx/PYNQ_Composable_Pipeline
 
-## Setup Juypter notebook examples of Composable Video Pipeline
+### Setup Juypter notebook examples of Composable Video Pipeline
 Requirements
 * PYNQ-Z2 board with pynq 2.7up
 * HDMI input signal of 720P
@@ -31,13 +31,13 @@ Open a Jupyter Lab terminal
     $ root@pynq:/home/xilinx# python3 -m pip install PYNQ_Composable_Pipeline/ --no-build-isolation
     $ root@pynq:/home/xilinx# pynq-get-notebooks pynq_composable -p $PYNQ_JUPYTER_NOTEBOOKS
 
-## Build Composable Video Pipeline sources on Vivado server
+### Build Composable Video Pipeline sources on Vivado server
 Requirements
 * Ubuntu 20.04 and Vivado 2020.2
-* Install libc6-dev-i386 dependency package 
-* Install PYNQ-Z2 board files
+* Pre-installed libc6-dev-i386 dependency package 
+* Pre-installed PYNQ-Z2 board files
 
-Make Composable Video Pipeline source
+Make Composable Video Pipeline sources
 
     $ git clone https://github.com/Xilinx/PYNQ_Composable_Pipeline --recursive
     $ cd PYNQ_Composable_Pipeline/boards/Pynq-Z2/
