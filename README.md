@@ -1,6 +1,6 @@
 # PYNQ Composable Pipeline & Partial Programming
 
-## Outline of the lab lecture
+## Outline of the lecture
 * PYNQ
   1. PYNQ Introduction & Background
   2. PYNQ Overlays 
