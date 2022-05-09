@@ -20,9 +20,9 @@ https://github.com/Xilinx/PYNQ_Composable_Pipeline
 ### Setup Juypter notebook examples of Composable Video Pipeline
 Preparation:
 * PYNQ-Z2 board with pynq 2.7up
-* HDMI input signal of 720P
 * HDMI displayer
-* USB Webcam supports 720P
+* HDMI input supports 720P (tutorial 02~06)
+* USB Webcam supports 720P (tutorial 08)
 
 Open a Jupyter Lab terminal and install Composable Video Pipeline
 
