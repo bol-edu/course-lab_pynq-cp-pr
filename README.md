@@ -14,5 +14,6 @@
   1. Composable Video Pipeline 
 
 ## A Composable Video Pipeline
-To demonstrate the benefits of the composable overlay, we reference a composable video pipeline example from offical
+To demonstrate the benefits of the composable overlay, we reference a composable video pipeline example from offical.
 https://github.com/Xilinx/PYNQ_Composable_Pipeline
+In this tutorial, you can exercise two parts: (1) Juypter notebook examples of Composable Video Pipeline (2) Build Composable Video Pipeline sources on Vivado server.
