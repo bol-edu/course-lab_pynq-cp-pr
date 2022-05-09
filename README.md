@@ -2,16 +2,16 @@
 
 ## Outline of the lab lecture
 * PYNQ
-** PYNQ Introduction & Background
-** PYNQ Overlays 
-** PYNQ Libraries
-** Overlay Design Methodology
+  1. PYNQ Introduction & Background
+  2. PYNQ Overlays 
+  3. PYNQ Libraries
+  4. Overlay Design Methodology
 * PYNQ Composable Overlays
-** A Composable Video Pipeline
-** Composable Overlay Methodology
-** Default Paths
+  1. A Composable Video Pipeline
+  2. Composable Overlay Methodology
+  3. Default Paths
 * Tutorial
-** Composable Video Pipeline 
+  1. Composable Video Pipeline 
 
 ## A Composable Video Pipeline
 To demonstrate the benefits of the composable overlay, we reference a composable video pipeline example from offical
